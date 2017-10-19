@@ -1,0 +1,12 @@
+html {
+    background-color: cornflowerblue;
+}
+
+.hidden {
+    display: none;
+}
+
+#query:hover, #query:focus, 
+button:hover, button:focus {
+    outline: 5px dotted black;
+}
